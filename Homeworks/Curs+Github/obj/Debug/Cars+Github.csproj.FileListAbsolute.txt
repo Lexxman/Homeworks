@@ -8,3 +8,12 @@ c:\users\aleks\source\repos\Curs+Github\obj\Debug\Curs+Github.pdb
 c:\users\aleks\source\repos\Curs+Github\bin\Debug\System.ValueTuple.dll
 c:\users\aleks\source\repos\Curs+Github\bin\Debug\System.ValueTuple.xml
 c:\users\aleks\source\repos\Curs+Github\obj\Debug\Cars+Github.csproj.CopyComplete
+F:\Homeworks_Git\Homeworks\Curs+Github\bin\Debug\Curs+Github.exe.config
+F:\Homeworks_Git\Homeworks\Curs+Github\bin\Debug\Curs+Github.exe
+F:\Homeworks_Git\Homeworks\Curs+Github\bin\Debug\Curs+Github.pdb
+F:\Homeworks_Git\Homeworks\Curs+Github\bin\Debug\System.ValueTuple.xml
+F:\Homeworks_Git\Homeworks\Curs+Github\obj\Debug\Cars+Github.csprojAssemblyReference.cache
+F:\Homeworks_Git\Homeworks\Curs+Github\obj\Debug\Cars+Github.csproj.CoreCompileInputs.cache
+F:\Homeworks_Git\Homeworks\Curs+Github\obj\Debug\Cars+Github.csproj.CopyComplete
+F:\Homeworks_Git\Homeworks\Curs+Github\obj\Debug\Curs+Github.exe
+F:\Homeworks_Git\Homeworks\Curs+Github\obj\Debug\Curs+Github.pdb

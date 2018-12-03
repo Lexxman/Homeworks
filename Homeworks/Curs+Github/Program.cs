@@ -39,7 +39,7 @@ namespace Cars_Github
             Console.WriteLine("Выбор по цвету");
             List<Car> col = a.Choose_by_colour(cars);
             Show(col);
-            Console.WriteLine("Выор по марке и цене");
+            Console.WriteLine("Выбор по марке и цене");
             List<Car> mp = a.Choose_by_price_mark(cars);
             Show(mp);
             
