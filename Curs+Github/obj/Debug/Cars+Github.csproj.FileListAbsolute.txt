@@ -1,0 +1,10 @@
+c:\users\aleks\source\repos\Curs+Github\bin\Debug\Curs+Github.exe.config
+c:\users\aleks\source\repos\Curs+Github\bin\Debug\Curs+Github.exe
+c:\users\aleks\source\repos\Curs+Github\bin\Debug\Curs+Github.pdb
+c:\users\aleks\source\repos\Curs+Github\obj\Debug\Cars+Github.csprojAssemblyReference.cache
+c:\users\aleks\source\repos\Curs+Github\obj\Debug\Cars+Github.csproj.CoreCompileInputs.cache
+c:\users\aleks\source\repos\Curs+Github\obj\Debug\Curs+Github.exe
+c:\users\aleks\source\repos\Curs+Github\obj\Debug\Curs+Github.pdb
+c:\users\aleks\source\repos\Curs+Github\bin\Debug\System.ValueTuple.dll
+c:\users\aleks\source\repos\Curs+Github\bin\Debug\System.ValueTuple.xml
+c:\users\aleks\source\repos\Curs+Github\obj\Debug\Cars+Github.csproj.CopyComplete
